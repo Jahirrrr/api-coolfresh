@@ -1,0 +1,13 @@
+[
+    {
+        "id": "1",
+        "name": "CoolFresh Avocado Juice",
+        "price": 10000,
+        "image": "https://i.ibb.co/qxRzkss/Screenshot-2024-02-06-06-12-21-250-com-miui-videoplayer-edit.jpg",
+        "colors": ["#ff0000", "#00ff00", "#0000ff"],
+        "company": "CoolFresh",
+        "description": "Minuman jus alpukat paling segar, dengan sari alpukat aseli",
+        "category": "Minuman",
+        "shipping": true
+    }
+]

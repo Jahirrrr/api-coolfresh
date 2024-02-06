@@ -1,0 +1,94 @@
+{
+    "id": "1",
+    "stock": 2348,
+    "price": 10000,
+    "shipping": true,
+    "colors": ["#ff0000", "#00ff00", "#0000ff"],
+    "category": "Minuman",
+    "images": [
+        {
+            "id": "1_pic_1",
+            "width": 1000,
+            "height": 667,
+            "url": "https://i.ibb.co/qxRzkss/Screenshot-2024-02-06-06-12-21-250-com-miui-videoplayer-edit.jpg",
+            "filename": "product-4.jpeg",
+            "size": 49641,
+            "type": "image/jpeg",
+            "thumbnails": {
+                "small": {
+                    "url": "https://i.ibb.co/qxRzkss/Screenshot-2024-02-06-06-12-21-250-com-miui-videoplayer-edit.jpg",
+                    "width": 54,
+                    "height": 36
+                },
+                "large": {
+                    "url": "https://i.ibb.co/qxRzkss/Screenshot-2024-02-06-06-12-21-250-com-miui-videoplayer-edit.jpg",
+                    "width": 768,
+                    "height": 512
+                },
+                "full": {
+                    "url": "https://i.ibb.co/qxRzkss/Screenshot-2024-02-06-06-12-21-250-com-miui-videoplayer-edit.jpg",
+                    "width": 3000,
+                    "height": 3000
+                }
+            }
+        },
+        {
+            "id": "1_pic_2",
+            "width": 1000,
+            "height": 667,
+            "url": "https://i.ibb.co/dcbXYmV/Screenshot-2024-02-06-06-11-54-128-com-miui-videoplayer-edit.jpg",
+            "filename": "extra-1.jpeg",
+            "size": 102108,
+            "type": "image/jpeg",
+            "thumbnails": {
+                "small": {
+                    "url": "https://i.ibb.co/dcbXYmV/Screenshot-2024-02-06-06-11-54-128-com-miui-videoplayer-edit.jpg",
+                    "width": 54,
+                    "height": 36
+                },
+                "large": {
+                    "url": "https://i.ibb.co/dcbXYmV/Screenshot-2024-02-06-06-11-54-128-com-miui-videoplayer-edit.jpg",
+                    "width": 768,
+                    "height": 512
+                },
+                "full": {
+                    "url": "https://i.ibb.co/dcbXYmV/Screenshot-2024-02-06-06-11-54-128-com-miui-videoplayer-edit.jpg",
+                    "width": 3000,
+                    "height": 3000
+                }
+            }
+        },
+        {
+            "id": "1_pic_3",
+            "width": 1000,
+            "height": 714,
+            "url": "https://i.ibb.co/vvKQNmy/Screenshot-2024-02-06-06-13-36-554-com-miui-videoplayer-edit.jpg",
+            "filename": "extra-2.jpeg",
+            "size": 84418,
+            "type": "image/jpeg",
+            "thumbnails": {
+                "small": {
+                    "url": "https://i.ibb.co/vvKQNmy/Screenshot-2024-02-06-06-13-36-554-com-miui-videoplayer-edit.jpg",
+                    "width": 50,
+                    "height": 36
+                },
+                "large": {
+                    "url": "https://i.ibb.co/vvKQNmy/Screenshot-2024-02-06-06-13-36-554-com-miui-videoplayer-edit.jpg",
+                    "width": 717,
+                    "height": 512
+                },
+                "full": {
+                    "url": "https://i.ibb.co/vvKQNmy/Screenshot-2024-02-06-06-13-36-554-com-miui-videoplayer-edit.jpg",
+                    "width": 3000,
+                    "height": 3000
+                }
+            }
+        }
+    ],
+    "reviews": 25,
+    "stars": 4.9,
+    "name": "CoolFresh Avocado Juice",
+    "description": "Minuman jus alpukat paling segar, dengan sari alpukat aseli",
+    "company": "CoolFresh",
+    "no_WA": "+62857124000807"
+}
